@@ -1,0 +1,2 @@
+# smtbsty
+Newbie :3
